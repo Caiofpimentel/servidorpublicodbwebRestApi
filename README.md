@@ -4,7 +4,7 @@ Este projeto é uma API RESTful desenvolvida para gerenciar registros de servido
 
 ## 🚀 Tecnologias Utilizadas
 
-- Java 17  
+- Java 21 
 - Spring Boot  
 - Spring Data JPA  
 - Hibernate  
